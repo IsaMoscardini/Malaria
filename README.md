@@ -1,1 +1,1 @@
-# Malaria - TCC
+# Malaria 
